@@ -1,5 +1,35 @@
-# 💫 About Me:
-I was a SDE Intern @Aditya Birla Fashion| 2x-GATE Qualified | Ex-TCS<br> with strong skills in 𝗖++, 𝗣𝘆𝘁𝗵𝗼𝗻, 𝗗𝗦𝗔, and 𝗙𝘂𝗹𝗹-𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 (𝗠𝗘𝗥𝗡/𝗡𝗲𝘅𝘁.𝗷𝘀).<br>Experienced in 𝗔𝗜/𝗠𝗟, 𝗗𝗲𝗲𝗽 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴, 𝗗𝗼𝗰𝗸𝗲𝗿, 𝗮𝗻𝗱 𝗖𝗜/𝗖𝗗, currently working as an 𝗦𝗗𝗘 𝗜𝗻𝘁𝗲𝗿𝗻 𝗮𝘁 𝗧𝗠𝗥𝗪 (𝗔𝗱𝗶𝘁𝘆𝗮 𝗕𝗶𝗿𝗹𝗮 𝗚𝗿𝗼𝘂𝗽) on scalable e-commerce systems and deployments.<br>Initiated a 𝗖𝗼𝗱𝗶𝗻𝗴 𝗖𝗹𝘂𝗯 to mentor undergraduate peers.<br><br>I’m interested Data Structure and Algorithm.<br>I’m currently practising web project and problem solving.<br>I am also learning Hardware coding using CHISEL and optimisation of CPU Architecutre.
+# 💫 About Me
+
+I'm an M.Tech graduate in Computer Science from **IIT Mandi**, passionate about building efficient software and hardware systems.
+
+Previously, I worked as a **Product & Tech Intern at TMRW (Aditya Birla Fashion & Retail Ltd.)** and as an **Assistant System Engineer Trainee at TCS**.
+
+My interests span **Embedded Systems, Computer Architecture, RISC-V, DSP, and Backend Software Engineering**. During my M.Tech thesis, I optimized a **RISC-V processor** using **Chisel3**, gaining hands-on experience in RTL design, hardware verification, Verilator, GTKWave, and CPU microarchitecture.
+
+### 💻 Technical Interests
+
+* C, C++, Python
+* Data Structures & Algorithms
+* Computer Architecture & Embedded Systems
+* RISC-V, Chisel3, RTL Design
+* ARM Assembly & Linux
+* Backend Development (Node.js, Express.js)
+* Docker, AWS, CI/CD
+
+### 🚀 Currently Exploring
+
+* Embedded Software Development
+* Processor Design & Performance Optimization
+* Hardware-Software Co-design
+* Advanced DSA and System Design
+
+### 🌱 Community
+
+* Founded a Coding Club to mentor undergraduate students in C++, DSA, and competitive programming.
+* Solved 500+ coding problems across LeetCode and GeeksforGeeks.
+
+I'm always interested in collaborating on projects involving **Embedded Systems, Computer Architecture, RISC-V, C/C++, or Backend Engineering**.
+
 
 
 ## 🌐 Socials:
